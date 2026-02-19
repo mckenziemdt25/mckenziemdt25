@@ -60,4 +60,3 @@ https://github.com/mckenziemdt25/chicago-crime-spark-analysis
 
 To become a Data Engineer building scalable and efficient data infrastructure.
 
-To become a Data Engineer building scalable and efficient data infrastructure.
